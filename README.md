@@ -271,6 +271,22 @@
         <a href="https://s.shopee.co.id/30c9F61u1m?share_channel_code=1" class="product-link" target="_blank" rel="noopener noreferrer" aria-describedby="desc-product5">31. Ortuseight EXTEND </a>
         <span class="price">Rp 299.500</span>
       </li>
+      <li class="product-item" tabindex="0">
+        <a href="https://s.shopee.co.id/5L08oOYFdY" class="product-link" target="_blank" rel="noopener noreferrer" aria-describedby="desc-product32">32. Tas Ransel Cowo Bergambar 1</a>
+        <span class="price">Lihat di Shopee</span>
+      </li>
+      <li class="product-item" tabindex="0">
+        <a href="https://s.shopee.co.id/9UphmKFvCm" class="product-link" target="_blank" rel="noopener noreferrer" aria-describedby="desc-product33">33. Tas Ransel Koduroy Bintang</a>
+        <span class="price">Lihat di Shopee</span>
+      </li>
+      <li class="product-item" tabindex="0">
+        <a href="https://s.shopee.co.id/800tzjUecq" class="product-link" target="_blank" rel="noopener noreferrer" aria-describedby="desc-product34">34. Tas Ransel One Project Id</a>
+        <span class="price">Lihat di Shopee</span>
+      </li>
+      <li class="product-item" tabindex="0">
+        <a href="https://s.shopee.co.id/8KdkOQrQ6v" class="product-link" target="_blank" rel="noopener noreferrer" aria-describedby="desc-product35">35. Tas Ransel Corduroy Bintang II</a>
+        <span class="price">Lihat di Shopee</span>
+      </li>
     </ul>
   </main>
 </body>
